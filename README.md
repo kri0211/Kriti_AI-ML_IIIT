@@ -1,2 +1,2 @@
-# Kriti_AIML_Course
+# Kriti_AI-ML_IIIT
 AI/ML course Assignments and Projects
